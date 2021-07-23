@@ -1,0 +1,19 @@
+.borders-input {
+  border-radius: 0.8rem;
+  overflow: hidden;
+}
+input {
+  outline: none;
+}
+::placeholder {
+  color: rgba(190, 183, 183, 0.5) !important;
+  font-size: 14px;
+}
+
+.input-group-text {
+  color: rgba(190, 183, 183, 0.5) !important;
+}
+
+.display-4 {
+  font-family: "Dela Gothic One";
+}
